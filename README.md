@@ -1,6 +1,6 @@
 # 1次ホモロジー基底の計算
 
-<img src = "fertility_nsc.png">
+<img src = "fertility_nsc.png" width = 50%>
 
 ### 概略
 サイクルの計算は，3次元モデルにテクスチャマッピングする際などに役立つ．
